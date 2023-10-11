@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: registry001100.azurecr.io/visaluserpoc   
+  repository: visalreg.azurecr.io/visaluserpoc  
   tag: 5
   pullPolicy: Always
 
