@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: visalreg.azurecr.io/visaluserpoc  
+  repository: newvisalreg.azurecr.io/visaluserpocazur  
   tag: 5
   pullPolicy: Always
 
