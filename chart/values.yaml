@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: newvisalreg.azurecr.io/visaluserpocazur  
-  tag: 5
+  repository: kubecontainer12.azurecr.io/visaluserpocazur
+  tag: 83
   pullPolicy: Always
 
 service:
