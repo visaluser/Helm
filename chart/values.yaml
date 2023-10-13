@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: kubecontainer12.azurecr.io/visaluserpocazur
-  tag: 97
+  tag: latest
   pullPolicy: Always
 
 service:
